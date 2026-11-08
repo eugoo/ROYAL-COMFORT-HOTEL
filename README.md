@@ -1,2 +1,2 @@
 # ROYAL-COMFORT-HOTEL
-hotel website
+hotel website.
